@@ -30,9 +30,9 @@ programa
 	     }
 
 	     se(mes == 6 e dia>=21 e dia<=30){
-			escreva("Você é de cancêr")
+			escreva("Você é de câncer")
 		}senao se(mes == 7 e dia>=1 e dia<=22){
-	     	escreva("Você é de cancêr")
+	     	escreva("Você é de câncer")
 	     }
 
 	     se(mes == 7 e dia>=23 e dia<=30){
